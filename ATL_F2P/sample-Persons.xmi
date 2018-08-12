@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ashraf.persons="http://ashraf.persons">
+  <ashraf.persons:Female fullName="Cindy March"/>
+  <ashraf.persons:Female fullName="Brenda March"/>
+  <ashraf.persons:Female fullName="Jackie Sailor"/>
+  <ashraf.persons:Female fullName="Kelly Sailor"/>
+  <ashraf.persons:Male fullName="Jim March"/>
+  <ashraf.persons:Male fullName="Brandon March"/>
+  <ashraf.persons:Male fullName="Peter Sailor"/>
+  <ashraf.persons:Male fullName="David Sailor"/>
+  <ashraf.persons:Male fullName="Dylan Sailor"/>
+</xmi:XMI>
