@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<PetriNet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="platform:/resource/P2GQVTo/metamodel/PetriNet.ecore" location="1:1-126:2" name="exemple1">
+<PetriNet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://com.petrinet" location="1:1-126:2" name="exemple1">
   <elements xsi:type="Place" location="3:9-6:10" name="s1" outgoingArc="//@arcs.0"/>
   <elements xsi:type="Place" location="8:9-11:10" name="s2" incomingArc="//@arcs.6" outgoingArc="//@arcs.1"/>
   <elements xsi:type="Place" location="13:9-16:10" name="s3" incomingArc="//@arcs.7" outgoingArc="//@arcs.2"/>
