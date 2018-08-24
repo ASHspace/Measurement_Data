@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<JavaSource xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="/JavaSource2Table/metamodel/JavaSource.ecore">
+<JavaSource xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="/home/ashraf/Workspace/Git/Measure/Measurement_Data/05_ATL_J2T/JavaSource.ecore">
   <classes name="FirstClass">
     <methods name="fc_m1"/>
     <methods name="fc_m2">
