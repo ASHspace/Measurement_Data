@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Grafcet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="platform:/resource/G2PQVTo/metamodel/Grafcet.ecore" location="1:1-126:2" name="exemple1">
+<Grafcet xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://com.grafcet" location="1:1-126:2" name="exemple1">
   <elements xsi:type="Step" location="3:9-6:10" name="s1" isInitial="true" isActive="true" action="action1" outgoingConnections="//@connections.0"/>
   <elements xsi:type="Step" location="8:9-11:10" name="s2" isInitial="false" isActive="false" action="action2" incomingConnections="//@connections.6" outgoingConnections="//@connections.1"/>
   <elements xsi:type="Step" location="13:9-16:10" name="s3" isInitial="false" isActive="false" action="action3" incomingConnections="//@connections.7" outgoingConnections="//@connections.2"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="platform:/resource/B2PQVTo/metamodel/Book.ecore">
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://com.book">
   <Book title="article">
     <chapters title="chapter 1" nbPages="13" author="Michel"/>
     <chapters title="chapter 2" nbPages="1" author="David"/>
